@@ -1,0 +1,16 @@
+Criando um repositorio
+ 	//Cria o repositorio local
+	♦ git init
+	//Adiciona as modificações em uma "sala de espera" no servidor remoto
+	♦ git add --all
+	//Confirma as modificações
+	♦ git commit -m <nome da modificação>
+--------------------------------------------------------------------------------------
+	//Adicionar repositório remoto (github)
+	♦ git remote add origin <link do servidor remoto>
+	//Adiciona as alterações feitas no projeto no servidor remoto
+	♦ git push origin master
+--------------------------------------------------------------------------------------	
+	// atualiza o repositório local com as modificações feitas no repositorio remoto (github)
+	♦ git pull origin master 
+		
