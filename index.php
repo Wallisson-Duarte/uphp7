@@ -7,6 +7,7 @@
     <body>
         <?php
             echo "Olá, mundo!";
+            echo "<br/> Eoq";
         ?>
     </body>
 </html>
